@@ -1,6 +1,6 @@
 # CS50x-Week9-Birthdays
 
-CS50x course Week 9 Lab - Birthdays - Very simple Flask basd web app to make a birthdays list, according to the following specifications:
+CS50x course Week 9 Lab - Birthdays - Very simple Flask based web app to make a birthdays list, according to the following specifications:
 
 Complete the implementation of a web application to let users store and keep track of birthdays.
 
